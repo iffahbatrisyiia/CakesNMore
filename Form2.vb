@@ -1,6 +1,6 @@
 ﻿Public Class Form2
     Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
-
+        'Initial setup
         txtCustomisation.Clear()
         txtOccassion.Clear()
 
