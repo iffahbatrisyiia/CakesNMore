@@ -112,7 +112,7 @@ Partial Class Form2
         '
         'btnClear
         '
-        Me.btnClear.BackColor = System.Drawing.Color.LavenderBlush
+        Me.btnClear.BackColor = System.Drawing.Color.Magenta
         Me.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.System
         Me.btnClear.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnClear.Location = New System.Drawing.Point(181, 357)
@@ -207,7 +207,7 @@ Partial Class Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.LightPink
+        Me.BackColor = System.Drawing.Color.Magenta
         Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.txtCustomisation)
         Me.Controls.Add(Me.lblCustomisation)
